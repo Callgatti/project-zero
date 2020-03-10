@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(72, 204, 79);
+}
+.list {
+    list-style: none;
+}
+li {
+    color: yellow;
+}
+#fogao {
+    color: black;
+}
+.leite {
+    color: pink;
+}
