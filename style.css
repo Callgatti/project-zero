@@ -1,15 +1,5 @@
 body {
-    background-color: rgb(72, 204, 79);
-}
-.list {
-    list-style: none;
-}
-li {
-    color: yellow;
-}
-#fogao {
-    color: black;
-}
-.leite {
-    color: pink;
+    background-color: rgb(103, 167, 252);
+    color: lightyellow;
+    font: normal 20pt;
 }
